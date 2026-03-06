@@ -1,0 +1,10 @@
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+.cache/
+.vscode/
+interview_questions.md
+dummy_data.csv
+hrt_resume_points.md
