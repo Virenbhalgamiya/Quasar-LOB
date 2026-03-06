@@ -1,4 +1,4 @@
-# Ultra Low Latency Algorithmic Trading System
+# Quasar-LOB -  Low Latency Algorithmic Trading System
 
 A complete high-frequency trading (HFT) infrastructure engineered in C++20 for sub-microsecond latency and Python for historical backtesting and analytics.
 
